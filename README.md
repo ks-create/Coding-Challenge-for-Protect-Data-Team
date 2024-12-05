@@ -1,8 +1,8 @@
 # Coding-Challenge-for-Protect-Data-
 
-The `final_df` dataset is a cleaned and summarized data frame prepared after merging, mapping, and processing participant-level HAM (Hamilton scale) data from both the `HAM_protect` and `HAM_sleep` datasets. This data frame was created following a series of data management steps including ID mapping, score calculation, and selection of relevant visits. The primary goal was to generate a concise, participant-level summary that collaborators in the lab can easily use for further analysis or reporting.
+The `Q1_final_df` dataset is a cleaned and summarized data frame prepared after merging, mapping, and processing participant-level HAM (Hamilton scale) data from both the `HAM_protect` and `HAM_sleep` datasets. This data frame was created following a series of data management steps including ID mapping, score calculation, and selection of relevant visits. The primary goal was to generate a concise, participant-level summary that collaborators in the lab can easily use for further analysis or reporting.
 
-**Contents of `final_df`:**
+**Contents of `Q1_final_df`:**
 
 - **new_id:** A unique identifier for each research participant. This `new_id` has been standardized across data sources, ensuring that each participant can be reliably linked to other study data.
 
