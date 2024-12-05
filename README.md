@@ -1,4 +1,4 @@
-# Coding-Challenge-for-Protect-Data-
+# Coding-Challenge-for-Protect-Data
 
 The `Q1_final_df` dataset is a cleaned and summarized data frame prepared after merging, mapping, and processing participant-level HAM (Hamilton scale) data from both the `HAM_protect` and `HAM_sleep` datasets. This data frame was created following a series of data management steps including ID mapping, score calculation, and selection of relevant visits. The primary goal was to generate a concise, participant-level summary that collaborators in the lab can easily use for further analysis or reporting.
 
